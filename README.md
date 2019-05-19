@@ -23,4 +23,4 @@ For example:
  
  - 20190532_Notheastern -> D7 (From this day, D7, forward I have two problems. First, doesn't exist May 32nd. Second, the next month in this case is June).
  
- Finaly, I am trying solve these problems to import the datasets automatically.
+ Finaly, I am trying to solve these problems to import the datasets automatically during month changes.
