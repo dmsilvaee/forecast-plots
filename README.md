@@ -1,7 +1,7 @@
-## forecast-plots
-This repository is to enhance a code in R programming language that goals to plot wind power forescasts from a dynamic ten days ahead time horizon from ten different text files with **dynamic date names**, based on the same time horizon.
+## Wind Power Forescast
+This repository is to enhance a code in R programming language that goals to plot wind power forecasts from a dynamic ten days ahead of time horizon from ten different text files with **dynamic date names**, based on the same time horizon.
 
-The files names follow below pattern:
+The files names follow the below pattern:
 
 - YYYYMMDD_standard_name
 
@@ -21,6 +21,6 @@ For example:
  .
  - 20190531_Northeastern -> D6 (May last day)
  
- - 20190532_Notheastern -> D7 (From this day, D7, forward I have two problems. First, doesn't exist May 32nd. Second, the next month in this case is June).
+ - 20190532_Notheastern -> D7 (From this day, D7, forward I have two problems. First, doesn't exist May 32nd. Second, the next month, in this case, is June).
  
- Finaly, I am trying to solve these problems to import the datasets automatically during month changes.
+ Finally, I am trying to solve these problems to import the datasets automatically during month changes.
