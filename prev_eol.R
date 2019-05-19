@@ -1,5 +1,6 @@
 # Testando acompanhamento de versoes com o Git
 # Test from remote to local
+# Test from local to remote
 # Data invertida do arquivo de previsao
 
 ini_day <- 20190519
